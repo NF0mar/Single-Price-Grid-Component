@@ -193,6 +193,8 @@ our-info {
         grid-template-columns: repeat(2,1fr);
         /* grid-auto-rows: 16.188rem; */
         max-width: 39.688rem;
+        border-top-right-radius:  0.313rem;
+        border-top-left-radius:  0.313rem;
     }
     
     .join {
@@ -205,11 +207,13 @@ our-info {
     .subscription {
         grid-column: 1/2;
         grid-row: 2/3;
+        border-bottom-left-radius:  0.313rem;
     }
 
     .why-us {
         grid-column: 2/3;
         grid-row: 2/3;
+        border-bottom-left-radius: 0;
     }
 }
 
