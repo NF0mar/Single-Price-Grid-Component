@@ -1,0 +1,41 @@
+:root {
+    --clr-accent-100: #FFF;
+    --clr-accent-200: #E6EFF5;
+    --clr-accent-300: #9AA7BE;
+    --clr-accent-400: #2AB3B1;
+    --clr-accent-500: #C0DF33;
+    
+  
+    --fw-regular: 400;
+    --fw-bold: 700; 
+  
+    --ff-primary: 'karla', sans-serif;
+  
+    --ff-body: var(--ff-primary);
+  
+    
+    --fs-100: 0.875rem;
+    --fs-200: 0.938rem;
+    --fs-300: 1rem;
+    --fs-400: 1.125rem;
+    --fs-500: 1.25rem;
+    --fs-600: 2rem;
+    
+ 
+  
+    --size-mobile: 23.438rem;
+
+    --size-100: 0.25rem;
+    --size-200: 1rem;
+    --size-300: 1.125rem;
+    --size-400: 1.5rem;
+    --size-500: 1.625rem;
+    --size-600: 3rem;
+    --size-700: 16.438rem;
+    --size-800: 19.438rem;
+    --size-900: 45.125rem;
+    
+    --size-laptop: 90rem;
+
+
+}
